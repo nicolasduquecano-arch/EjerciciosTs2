@@ -5,7 +5,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Project files to ignore
-README.md
 bun.lock
 
 # JSON files
